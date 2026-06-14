@@ -51,6 +51,7 @@ Tree diagram saved → alpha_beta_tree.png
 ```bash
 pip install matplotlib networkx
 ```
+<img src="./alpha_beta_tree.png">
 
 ---
 
